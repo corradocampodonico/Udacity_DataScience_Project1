@@ -1,4 +1,4 @@
-# Udacity_DataScience_Project1: Stack Overflow Data, a Further Analysis
+# Stack Overflow Data, a Further Analysis
 Project #1 for the Udacity Nanodegree Program for Data Science.
 
 ## Table of Contents
@@ -27,6 +27,8 @@ The projects constitute of four files:
 4. `survey_results_schema.csv`: explanation of the variables and answers of the survey (file not used for this project).
 
 ## Results
-The findings of the analyses can be found in the `.ipynb` file, as here.
+The findings of the analyses can be found in the `.ipynb` file, as [here](https://medium.com/@corrado.campodonico/data-science-the-devil-lies-in-details-e6598fa1d221).
 
 ## Licensing, Authors, Acknowledgements
+Stack Overflow data belongs to Kaggle, and it can be found [here] (https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
+The code is free for use.
