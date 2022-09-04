@@ -30,5 +30,5 @@ The projects constitute of four files:
 The findings of the analyses can be found in the `.ipynb` file, as [here](https://medium.com/@corrado.campodonico/data-science-the-devil-lies-in-details-e6598fa1d221).
 
 ## Licensing, Authors, Acknowledgements
-Stack Overflow data belongs to Kaggle, and it can be found [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
+Stack Overflow data belongs to Kaggle, and it can be found [here](https://medium.com/@corrado.campodonico/is-it-so-easy-to-guess-a-developers-salary-e6598fa1d221).
 The code is free for use.
